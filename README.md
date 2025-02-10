@@ -43,7 +43,9 @@ Follow these steps to get started:
    cd DeepSight
    ```
 
-2. **Configure API Keys:**
+2. **Install Dependencies:** scapy, transformers, GPUtil, flask_socketio
+
+3. **Configure API Keys:**
    Create `config.py` in the project root with your configuration settings. For example:
 
    ```python
@@ -68,11 +70,11 @@ Follow these steps to get started:
 
    Set the appropriate environment variables or directly update the file with your keys.
 
-3. **Run the Application:**
+4. **Run the Application:**
    The main application file is named `DeepSight.py`. Start the application with:
 
    ```bash
    python DeepSight.py
    ```
 
-4. **View Dashboard:** Navigate to http://localhost:5000
+5. **View Dashboard:** Navigate to http://localhost:5000
