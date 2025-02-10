@@ -64,7 +64,6 @@ Follow these steps to get started:
    if not HF_TOKEN:
     raise ValueError("HF_TOKEN environment variable is not set.")
 
-   DEBUG = os.getenv("DEBUG", "True") == "True"
    PORT = int(os.getenv("PORT", 5000))
    ```
 
