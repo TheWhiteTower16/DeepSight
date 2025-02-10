@@ -4,7 +4,7 @@
 
 In this project, I developed an AI-powered, real-time Security Information and Event Management (SIEM) system that detects, analyzes, and responds to threats as they occur. With AI for intrusion detection, Natural Language Processing (NLP) for generating concise alerts, and advanced integration with the ? API for high-performance analysis, this system offers a robust solution for modern cybersecurity challenges.
 
-## Technologies & Highlights
+### Technologies & Highlights
 
 - **NLP-Powered Alerts**:\
   Automatically generates concise notifications and alarms to provide clear insights into security statuses.
@@ -15,7 +15,7 @@ In this project, I developed an AI-powered, real-time Security Information and E
 - **Database Integration for Logging and Analysis**:\
   Logs system metrics, network data, and event logs in a SQLite database to ensure comprehensive traceability and support forensic analysis.
 
-## Project UI
+### Project UI
 
 The system features a **dynamic dashboard** that enables real-time visualization of system metrics, logs, and network events:
 
@@ -23,7 +23,7 @@ The system features a **dynamic dashboard** that enables real-time visualization
 - **AI-Generated Alerts** appear in a dedicated chat area.
 - **Flask SocketIO** streams live updates to the client, ensuring continuous monitoring.
 
-## Objective & Benefits
+### Objective & Benefits
 
 This SIEM system is designed to empower organizations by providing:
 
@@ -32,7 +32,7 @@ This SIEM system is designed to empower organizations by providing:
 - **Enhanced Decision-Making**: AI integration boosts analysis speed, supporting proactive security operations.
 - **Scalability & Traceability**: With robust logging and database integration, the system supports scalable and traceable security monitoring in critical environments.
 
-## Installation
+### Installation
 
 Follow these steps to get started:
 
@@ -69,10 +69,10 @@ Follow these steps to get started:
    Set the appropriate environment variables or directly update the file with your keys.
 
 3. **Run the Application:**
-   The main application file is named `app_AI.py`. Start the application with:
+   The main application file is named `DeepSight.py`. Start the application with:
 
    ```bash
-   python app_AI.py
+   python DeepSight.py
    ```
 
 4. **View Dashboard:** Navigate to http://localhost:5000
