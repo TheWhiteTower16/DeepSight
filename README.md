@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this project, I developed an AI-powered, real-time Security Information and Event Management (SIEM) system that detects, analyzes, and responds to threats as they occur. With AI for intrusion detection, Natural Language Processing (NLP) for generating concise alerts, and advanced integration with the ? API for high-performance analysis, this system offers a robust solution for modern cybersecurity challenges.
+In this project, I developed an AI-powered, real-time Security Information and Event Management (SIEM) system that detects, analyzes, and responds to threats as they occur. With AI for intrusion detection, Natural Language Processing (NLP) for generating concise alerts, and advanced integration with the Groq API for high-performance analysis, this system offers a robust solution for modern cybersecurity challenges.
 
 ### Technologies & Highlights
 
