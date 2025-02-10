@@ -1,4 +1,4 @@
- DeepSight: AI-Driven SIEM Realtime Operator&#x20;
+# DeepSight: AI-Driven SIEM Realtime Operator&#x20;
 
 ## Overview
 
